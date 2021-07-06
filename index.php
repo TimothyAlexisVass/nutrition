@@ -97,7 +97,7 @@ else {
 
 
     # Nutritional Balancing
-        html("<h1>Nutritional Balancing</h1>");
+        html("<h1>Nutritional balancing</h1>");
         html("<div class='wrapper'>");
         html("   <h2>Energy Distribution%</h2>");
     # Energy Distribution
